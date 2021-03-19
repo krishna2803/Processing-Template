@@ -1,2 +1,3 @@
 # Processing-Template
-processing template for processing.
+
+An empty template which can be used to work with Processing.
